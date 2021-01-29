@@ -1,0 +1,5 @@
+To Do:
+1. Implement category selection
+2. Implement word selection
+3. Implement game timer
+4. Implement scoring?
